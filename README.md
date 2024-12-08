@@ -1,4 +1,4 @@
-# AesAlgorithm
+# AESAlgorithm
 This program implements AES encryption and decryption for image files using three AES modes: ECB (Electronic Codebook), CBC (Cipher Block Chaining), and CTR (Counter Mode). It allows the user to encrypt an image file, store the encrypted data in a new file, and save the encryption key and initialization vector (IV) for later decryption. The user can also decrypt an encrypted image using the stored key and IV.
 
 ### Key Features:
